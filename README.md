@@ -74,14 +74,6 @@ plt.title("Customers Segments")
 <br>
 
 ## Output:
-<br>
-<br>
-<br>
-<br> 
-<br>
-<br>
-<br> 
-
 ## data.head()
 ![image](https://github.com/sanjayy2431/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/149365143/0827ec95-260d-4e14-a7a8-51fb37afd162)
 ## data.info()
