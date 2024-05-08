@@ -64,6 +64,14 @@ plt.scatter(df4["Annual Income (k$)"],df4["Spending Score (1-100)"],c="magenta",
 plt.legend()
 plt.title("Customers Segments")
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Output:
 <br>
