@@ -86,11 +86,27 @@ plt.title("Customers Segments")
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Elbow Method Graph()
 ![image](https://github.com/sanjayy2431/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/149365143/77df5fc9-8c78-4c0e-8ef1-094817aabaea)
 ## KMeans Cluster
 ![image](https://github.com/sanjayy2431/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/149365143/4fa686f1-2638-49a4-aad5-efb29cafbe7a)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
